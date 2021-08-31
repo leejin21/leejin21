@@ -1,3 +1,12 @@
+### 🌟 About Me
+
+Hello there!
+I am a full-stack developer, using react, nodejs, express, django.
+
+##### These days, I am working on ...
+- Damda app: Android, Server
+- GongDaDa web: React(Client)
+
 
 ### 🦾 Skills
 ##### 👋 Libraries & Frameworks
@@ -14,7 +23,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 </div>
-
 <!--
 **leejin21/leejin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
