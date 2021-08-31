@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/339933-nodejs-orange"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <!--
 **leejin21/leejin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
