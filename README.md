@@ -1,7 +1,10 @@
 
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+</div>
 <!--
 **leejin21/leejin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
