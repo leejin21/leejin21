@@ -6,6 +6,7 @@ I am a full-stack developer, using react, nodejs, express, django.
 ##### These days, I am working on ...
 - Damda app: Android, Server
 - GongDaDa web: React(Client)
+- gongC app: Android, Server, Raspberry Pi
 
 
 ### 🦾 Skills
