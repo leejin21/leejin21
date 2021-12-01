@@ -1,7 +1,7 @@
 ### 🌟 About Me
 
 Hello there!
-I am a full-stack developer, using react, nodejs, express, django.
+I am a server-side developer, using nodejs, express, django, react.
 
 ##### These days, I am working on ...
 - Damda app: Android, Server
