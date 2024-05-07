@@ -4,6 +4,10 @@ Hello there!
 I am a server-side developer, using nodejs, express, django, react.
 
 ##### These days, I am working on ...
+I am currently working as an embedded developer using CPP/C in LGE.
+I develop asynchronous networking system inside telematics chips.
+
+##### I have worked on ...
 - Damda app: Android, Server
 - GongDaDa web: React(Client)
 - gongC app: Android, Server, Raspberry Pi
